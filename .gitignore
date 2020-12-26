@@ -1,0 +1,3 @@
+dataset/cityscapes
+models/__pycache__/
+trained_model/
